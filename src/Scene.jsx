@@ -29,7 +29,7 @@ const Title = ({ position = [0, 0, 0], rotation=[0, 0, 0] }) => {
       position={position}
       rotation={rotation}
     >
-      O'FARRIL
+      O'FARRILL
       <meshBasicMaterial color="#f3f3f3" />
     </Text3D>
   )
