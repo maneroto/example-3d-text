@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Kalam';
+    src: url('Kalam-Light.eot');
+    src: url('Kalam-Light.eot?#iefix') format('embedded-opentype'),
+        url('Kalam-Light.woff2') format('woff2'),
+        url('Kalam-Light.woff') format('woff'),
+        url('Kalam-Light.ttf') format('truetype'),
+        url('Kalam-Light.svg#Kalam-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
